@@ -1,1 +1,2 @@
-# Freddy-RR2018-Rooms-Testing
+# 2018 Server
+Hi, these are the essentials for 2018
